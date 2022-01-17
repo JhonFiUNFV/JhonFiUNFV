@@ -14,7 +14,7 @@
 - :writing_hand: participate in **[HackathonMTC](https://www.gob.pe/institucion/mtc/noticias/82259-unete-a-la-hackathon-mtc-lanza-convocatoria-para-encuentro-tecnologico-por-la-seguridad-vial-2020)** this is my photo with mi team **[here](https://www.instagram.com/p/B9gt-dmHu3_/)**
 - :e-mail: Ask me about anything ; **[asrodeno18@gmail.com]**
 <a href="https://github.com/JhonFiUNFV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonFiUNFV&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonFiUNFV"/>
 </a>
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=JhonFiUNFV&show_icons=true&hide_border=true)

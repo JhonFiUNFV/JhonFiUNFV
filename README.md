@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jhon Figueroa! <img src="http://www.imagenesanimadas.net/Economia/La-bolsa/La-bolsa-04.gif" width="50"></h2>
 <img align='right' src="https://nemesisrisk.com/wp-content/uploads/2019/06/Be-DigitalShield-ITPartner-1.gif" width="230">
-<p><em>Economist at <a href="http://web2.unfv.edu.pe/sitio/">Federico Villarreal National University</a><img src="https://4.bp.blogspot.com/-rqhE-w1Msj0/XGxotiUiXRI/AAAAAAABNa0/LFfs4PpHWh8C2veIHItnNoQxxRk6g1u3gCLcBGAs/s1600/unfv-logo.jpg" width="120"></br> Recent Graduated | Risk and investment  <a href="http://web2.unfv.edu.pe/fce2/#">FCE</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em>Economist at <a href="http://web2.unfv.edu.pe/sitio/">Federico Villarreal National University</a><img src="https://4.bp.blogspot.com/-rqhE-w1Msj0/XGxotiUiXRI/AAAAAAABNa0/LFfs4PpHWh8C2veIHItnNoQxxRk6g1u3gCLcBGAs/s1600/unfv-logo.jpg" width="120"></br> Master's in Data Science  | ETL | CLOUD  <a href="http://web2.unfv.edu.pe/fce2/#">FCE</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: jhon999079622](https://img.shields.io/twitter/follow/jhon999079622?style=social)](https://twitter.com/jhon999079622)

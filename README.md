@@ -9,7 +9,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- :dart: Economist | Machine learning | Muner | Python | Matlab applied in finance | VBA  
+- :dart: 👉Data Engineer | ✨PySpark | 🧱Databricks | 🌊DeltaLake | 🏅Data Modeling
 - :heart: Open source contributor at **[MANOSALADATA](https://github.com/manosaladata)**
 - :writing_hand: participate in **[HackathonMTC](https://www.gob.pe/institucion/mtc/noticias/82259-unete-a-la-hackathon-mtc-lanza-convocatoria-para-encuentro-tecnologico-por-la-seguridad-vial-2020)**
 - :e-mail: Ask me about anything ; **[asrodeno18@gmail.com]**
